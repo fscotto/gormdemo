@@ -1,2 +1,3 @@
-# gormdemo
-My learning examples for GORM
+# GORM Demo
+
+A simple demo project for some experiments with GORM.
